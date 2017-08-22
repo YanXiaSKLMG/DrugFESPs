@@ -4,7 +4,8 @@ Code author: Yan Xia
 
 Date:2017-08-22
 
-Aim: 1. preporcessing the methylation data;
+Aim: 
+     1. preporcessing the methylation data;
 
      2. calculating the differential methylation positions between case and control;
      
